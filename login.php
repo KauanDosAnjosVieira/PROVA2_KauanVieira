@@ -44,8 +44,8 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h2>Login</h2>
     <form action="login.php" method="POST">
+         <h2>Login</h2>
         <label for="email">E-mail</label>
         <input type="email" id="email" name="email" required>
 
@@ -53,9 +53,10 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         <input type="password" id="senha" name="senha" required>
 
         <button type="submit">Entrar</button>
+        <p><a href="recuperar_senha.php">Esqueci minha senha</a></p>
+
     </form>
 
-    <p><a href="recuperar_senha.php">Esqueci minha senha</a></p>
 
     
 </body>

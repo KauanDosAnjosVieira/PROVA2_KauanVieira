@@ -1,8 +1,4 @@
 
-Matheus Etelvino dos Santos
-13:50 (há 0 minuto)
-para mim
-
 <?php    
 session_start();
 require_once 'conexao.php';

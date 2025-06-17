@@ -46,6 +46,8 @@ elseif ($_SERVER["REQUEST_METHOD"] == "POST" && !empty($_POST['busca'])) {
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="stylesheet" href="css/busca_cliente.css">      
 </head>
+<h1>Kauan Dos Anjos Vieira</h1>
+
 <body>
     <div class="container">
         <h2><i class="fas fa-users"></i> Lista de Clientes</h2>

@@ -44,6 +44,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <h1>Kauan Dos Anjos Vieira</h1>
     <form action="login.php" method="POST">
          <h2>Login</h2>
         <label for="email">E-mail</label>

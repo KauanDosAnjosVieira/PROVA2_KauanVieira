@@ -108,6 +108,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <link rel="stylesheet" href="css/alterar_cliente.css">
 </head>
 <body>
+<h1>Kauan Dos Anjos Vieira</h1>
     <div class="container">
         <h2><i class="fas fa-user-edit"></i> Alterar Cliente</h2>
 

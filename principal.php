@@ -65,6 +65,7 @@ $permissoes = [
     <script src="scripts.js"></script>
 </head>
 <body>
+<h1>Kauan Dos Anjos Vieira</h1>
     <header> 
         <div class="saudacao">
             <h2>Bem Vindo, <?php echo $_SESSION['usuario'];?>! Perfil: <?php echo$nome_perfil; ?></h2>

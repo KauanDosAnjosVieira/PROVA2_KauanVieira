@@ -56,6 +56,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+<h1>Kauan Dos Anjos Vieira</h1>
     <h2>Alterar Senha</h2>
     <p> Olá, <strong><?php echo $_SESSION['usuario']; ?></strong>. Digite sua nova senha abaixo:</p>
 

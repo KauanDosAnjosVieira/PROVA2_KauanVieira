@@ -44,6 +44,7 @@
         <link rel="stylesheet" href="styles.css">
     </head>
     <body>
+    <h1>Kauan Dos Anjos Vieira</h1>
         <h2>Recuperar Senha</h2>
         <form action="recuperar_senha.php" method="POST">
             <label for="email"> Digite o seu Email Cadastrado:</label>
